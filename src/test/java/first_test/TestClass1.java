@@ -12,6 +12,8 @@ public class TestClass1 {
 	}
 	
 	public void thisIsDev1With2(){
+	}
+	public void thisIsDev2Change2(){
 		
 	}
 }
