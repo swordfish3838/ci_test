@@ -16,4 +16,8 @@ public class TestClass1 {
 	public void thisIsDev2Change2(){
 		
 	}
+	
+	public void thisIsToAddStory2(){
+		
+	}
 }
