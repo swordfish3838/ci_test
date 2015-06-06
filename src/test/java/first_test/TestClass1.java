@@ -10,4 +10,8 @@ public class TestClass1 {
 	public void thisIsDev1(){
 		
 	}
+	
+	public void thisIsDev1With2(){
+		
+	}
 }
