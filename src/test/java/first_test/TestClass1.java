@@ -27,4 +27,10 @@ public class TestClass1 {
 	public void addDev4(){
 		System.out.println("this is committed by developer4");
 	}
+
+	public void add2(){
+
+	}
+	
+
 }
