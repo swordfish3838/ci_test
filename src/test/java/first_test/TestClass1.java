@@ -17,4 +17,8 @@ public class TestClass1 {
 		
 	}
 	
+	public void addDev3(){
+		System.out.println("this is developer3");
+	}
+	
 }
